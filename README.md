@@ -1,2 +1,2 @@
-# NFE2024
-Code for NFE 2024 assignments and project
+# NFE2025
+Code for NFE 2025 assignments and project
